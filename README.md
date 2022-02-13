@@ -10,3 +10,5 @@ just run according to the steps mentioned above.
 
 Note:- Download dl.png in your mobile and then run all mentioned above .
 after that camera will open and use that dl.png image and see the magic.
+![image](https://user-images.githubusercontent.com/89216667/153774383-359db08c-3037-4d1a-9aa0-34cc7bda0251.png)
+![image](https://user-images.githubusercontent.com/89216667/153774404-2906e086-9c41-42a8-b5da-006f6e133026.png)
