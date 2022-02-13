@@ -10,5 +10,15 @@ just run according to the steps mentioned above.
 
 Note:- Download dl.png in your mobile and then run all mentioned above .
 after that camera will open and use that dl.png image and see the magic.
-![image](https://user-images.githubusercontent.com/89216667/153774383-359db08c-3037-4d1a-9aa0-34cc7bda0251.png)
-![image](https://user-images.githubusercontent.com/89216667/153774404-2906e086-9c41-42a8-b5da-006f6e133026.png)
+
+OUTPUT images:-
+Feature detection pic:-
+![image](https://user-images.githubusercontent.com/89216667/153774873-bb3f971b-10bc-4309-a055-74b92f5e0202.png)
+
+Feature matching pic
+![image](https://user-images.githubusercontent.com/89216667/153774892-1212f642-c2b0-4e5f-9c9a-f3b6ca8a1daa.png)
+
+Image augmentation:-
+![image](https://user-images.githubusercontent.com/89216667/153774943-c5931795-3d58-402a-9bea-d15b150cd069.png)
+
+
