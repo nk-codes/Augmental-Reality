@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ImageAugmentation'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_882E451F0E914585BDA406B21D966DD2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8052C5CD4C948C3B96E5977950BC814 }}
