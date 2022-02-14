@@ -8,7 +8,7 @@ This project is on AR which is for :-
 3) IMAGE augemtation :- and finally it will detect that image ("dl.png") and will match and mask that image with " mask.jpeg " .
 
 run:-
-just run according to the steps mentioned above.
+just run according to the steps mentioned above. But before you need Opencv and numpy as well .
 
 Note:- Download dl.png in your mobile and then run all mentioned above .
 after that camera will open and use that dl.png image and see the magic.
